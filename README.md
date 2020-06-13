@@ -8,4 +8,5 @@ Proyek mini dalam game Snake ini memberi pengguna total tiga kehidupan untuk mem
 Singkatnya, game Snake di C memungkinkan Anda untuk merekam nama pemain dan skor terkait yang diperoleh. Penanganan file telah digunakan untuk tujuan itu.
 # Created By Ardean Bima Saputra 
 Please Support My Ass on YouTube : https://www.youtube.com/channel/UC1Hu0kEfFYR1075s6WPr91w
+
 My Portofolio : astrobox.epizy.com
