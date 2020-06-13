@@ -6,9 +6,6 @@ Snake Game adalah gim umum di mana pengguna harus makan Makanan yang akan tersed
 Proyek mini dalam game Snake ini memberi pengguna total tiga kehidupan untuk memainkan game. Hitungan hidup berkurang ketika ular menabrak dinding atau tubuhnya sendiri. Anda bahkan dapat menjeda game di tengah dengan menekan tombol apa saja, dan Anda dapat menekan tombol apa saja untuk melanjutkan.
 
 Singkatnya, game Snake di C memungkinkan Anda untuk merekam nama pemain dan skor terkait yang diperoleh. Penanganan file telah digunakan untuk tujuan itu.
-
-# Please Support My Ass on YouTube : https://www.youtube.com/channel/UC1Hu0kEfFYR1075s6WPr91w
-
 # Created By Ardean Bima Saputra 
-
+Please Support My Ass on YouTube : https://www.youtube.com/channel/UC1Hu0kEfFYR1075s6WPr91w
 My Portofolio : astrobox.epizy.com
